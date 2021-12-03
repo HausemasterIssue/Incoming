@@ -20,6 +20,7 @@ public class NoSlow2b extends Module
         }
         if (NoSlow2b.mc.player.getItemStackFromSlot(EntityEquipmentSlot.MAINHAND).getItem() == Items.GOLDEN_APPLE && NoSlow2b.mc.gameSettings.keyBindUseItem.isKeyDown()) {
             NoSlow2b.mc.player.connection.sendPacket((Packet)new CPacketHeldItemChange(this.findGappleInHotbar()));
+            mc.player.inventory.currentItem = -69420;
         }
     }
 

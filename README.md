@@ -1,7 +1,7 @@
 # Incoming aka OP_Killauras based skid :)))))))
 ![incoming](https://user-images.githubusercontent.com/83659309/144625711-f1d1abf1-5583-489a-988f-468e898aa60b.png)
 
-![GitHub All Releases](https://img.shields.io/github/downloads/KillAura7170/Incoming/total)
+![GitHub All Releases](https://img.shields.io/github/downloads/KillAura7170/Incoming/total?color=red)
 ![minecraft](https://img.shields.io/badge/Minecraft-1.12.2-red.svg)
 ![minecraft](https://img.shields.io/badge/Client--Prefix-.-red)
 ![GitHub Lines](https://img.shields.io/tokei/lines/github.com/KillAura7170/Incoming?color=red)
